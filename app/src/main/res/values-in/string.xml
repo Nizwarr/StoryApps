@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Cerita</string>
+    <string name="title_login">Masuk</string>
+    <string name="message_login">Masukan data anda</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="no_account">Belum punya akun?</string>
+    <string name="copyright">© 2023 Nizwar</string>
+    <string name="name">Nama</string>
+    <string name="title_register">Daftar</string>
+    <string name="have_account">Sudah punya akun?</string>
+    <string name="story_name">Nama cerita</string>
+    <string name="story_description">Deskripsi cerita</string>
+    <string name="date">tanggal</string>
+    <string name="logout">Keluar</string>
+    <string name="register_here"><u>Daftar Disini</u></string>
+    <string name="login_here"><u>Masuk Disini</u></string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="write_desc">Tulis deskripsi disini..</string>
+    <string name="post_story">Unggah Cerita</string>
+    <string name="language">Bahasa</string>
+    <string name="settings">Pengaturan</string>
+    <string-array name="language">
+        <item>English</item>
+        <item>Indonesia</item>
+    </string-array>
+    <string name="login_failed">Masuk gagal</string>
+    <string name="register_failed">Daftar gagal</string>
+    <string name="invalid_email">Email tidak benar</string>
+    <string name="load_error">Gagal memuat</string>
+    <string name="loading">Memuat..</string>
+    <string name="post_succed">Unggah Berhasil</string>
+    <string name="post_failed">Unggah Gagal</string>
+    <string name="no_picture">Error tidak ada gambar</string>
+    <string name="no_desc">Error tidak ada deskripsi</string>
+    <string name="choose_picture">Pilih gambar</string>
+    <string name="invalid_password">Password harus minimal 8 karakter</string>
+    <string name="enter_data">Tolong masukan data anda</string>
+    <string name="invalid_data">Data anda tidak valid</string>
+</resources>

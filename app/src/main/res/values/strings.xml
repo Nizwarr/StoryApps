@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="title_login">Login</string>
+    <string name="message_login">Enter your data</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="copyright">© 2023 Nizwar</string>
+    <string name="name">Name</string>
+    <string name="title_register">Register</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="story_name">Story Name</string>
+    <string name="story_description">Story Description</string>
+    <string name="date">date</string>
+    <string name="logout">Logout</string>
+    <string name="register_here"><u>Register Here</u></string>
+    <string name="login_here"><u>Login Here</u></string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="write_desc">Write your description here..</string>
+    <string name="post_story">Post Story</string>
+    <string name="language">Language</string>
+    <string name="settings">Settings</string>
+    <string-array name="language">
+        <item>English</item>
+        <item>Indonesia</item>
+    </string-array>
+
+    <string name="login_failed">Login Failed</string>
+    <string name="register_failed">Register Failed</string>
+
+    <string name="invalid_password">Password must be at least 8 character</string>
+    <string name="invalid_email">Email is invalid</string>
+
+    <string name="load_error">Load error</string>
+    <string name="loading">Loading..</string>
+
+    <string name="post_succed">Post Succed</string>
+    <string name="post_failed">Post Failed</string>
+
+    <string name="no_picture">Error picture doesn\'t exist</string>
+    <string name="no_desc">Error description doesn\'t exist</string>
+    <string name="choose_picture">Choose a Picture</string>
+    <string name="enter_data">Please enter your data</string>
+    <string name="invalid_data">Your data is invalid</string>
+</resources>
