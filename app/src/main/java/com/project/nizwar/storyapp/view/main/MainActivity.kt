@@ -53,6 +53,9 @@ class MainActivity : AppCompatActivity() {
                         }
                     }
                 }
+                else {
+                toLoginActivity()
+                }
             }
         }
 
